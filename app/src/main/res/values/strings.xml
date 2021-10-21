@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application GPS b1</string>
+    <string name="Hello_name">Peppino</string>
+    <string name="App_latitude">Latitude </string>
+    <string name="App_longitude">Longitude </string>
+    <string name="App_altitude">"Altitude "</string>
+    <string name="App_AltAccuracy" translatable="false">" +/- "</string>
+    <string name="App_speed">Speed m/s </string>
+    <string name="App_GPSFail">Fail to open GPS/location</string>
+    <string name="App_Kmh" translatable="false">" Km/h "</string>
+    <string name="ComoComo" translatable="false">"This device miss light sensor"</string>
+    <string name="App_NoLightSensor">This device miss light sensor</string>
+    <string name="App_lux" translatable="false">" Lx"</string>
+    <string name="App_WaitLight">"WaitFor Sensor data "</string>
+    <string name="App_pushed">pushed !</string>
+
+</resources>

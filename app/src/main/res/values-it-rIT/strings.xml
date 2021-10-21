@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application GPS b1 IT</string>
+    <string name="App_speed">"Velocità m/s "</string>
+    <string name="App_GPSFail">Non apro GPS/Localizzazione</string>
+    <string name="Hello_name">Peppin</string>
+    <string name="App_altitude">"Altitudine "</string>
+    <string name="App_latitude">"Latitudine "</string>
+    <string name="App_longitude">"Longitudine "</string>
+    <string name="App_NoLightSensor">Questo device manca del sensore di luce</string>
+    <string name="App_WaitLight">"In attesa sensore luce "</string>
+    <string name="App_pushed">"Schiacciato !!! "</string>
+</resources>
